@@ -1,2 +1,2 @@
-# FileTransferM5
-Simple file transfer experiment for M5Stack
+# FileTransferM5 (WIP)
+Simple file transfer experiment between a PC and an M5Stack (ESP32)
